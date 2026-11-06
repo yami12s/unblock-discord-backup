@@ -1,2 +1,3 @@
-# unblock-discord-backup
-Private backup of UnblockDiscord, built from alperenkaptan/UnblockDiscord.
+# Unblock Discord
+
+Experimental Windows utility for Discord connectivity. Download the Windows ZIP from Releases. Extract all files, run UnblockDiscord.exe as administrator, and press Start. Requires Windows Packet Filter.
